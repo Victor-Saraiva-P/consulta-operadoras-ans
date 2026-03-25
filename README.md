@@ -4,7 +4,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-# Teste de API
+# Consulta Operadoras ANS
 
 Este projeto é um sistema completo para consulta de operadoras de planos de saúde ativas no Brasil. Utiliza dados abertos da ANS (Agência Nacional de Saúde Suplementar) para disponibilizar informações detalhadas sobre operadoras através de uma API REST e uma interface web moderna.
 
@@ -51,7 +51,7 @@ Este projeto é um sistema completo para consulta de operadoras de planos de sa�
 ## Estrutura do Projeto
 
 ```
-teste-api/
+consulta-operadoras-ans/
 ├── backend/                     # API em FastAPI
 │   ├── app/
 │   │   ├── controller/          # Controladores da API
@@ -81,7 +81,7 @@ teste-api/
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/Victor-Saraiva-P/teste-api
+   git clone https://github.com/Victor-Saraiva-P/consulta-operadoras-ans
    ```
 
 2. **Inicie o Backend:**
